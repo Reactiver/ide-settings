@@ -7,6 +7,9 @@
   </action>
   <action id="GotoChangedFile" />
   <action id="GotoClass" />
+  <action id="Macro.formatOnSave">
+    <keyboard-shortcut first-keystroke="meta s" />
+  </action>
   <action id="SaveAll" />
   <action id="android.deploy.ApplyChanges">
     <keyboard-shortcut first-keystroke="ctrl meta r" />
