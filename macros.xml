@@ -2,7 +2,6 @@
   <component name="ActionMacroManager">
     <macro name="formatOnSave">
       <action id="OptimizeImports" />
-      <action id="ReformatWithPrettierAction" />
       <action id="SaveAll" />
     </macro>
   </component>
