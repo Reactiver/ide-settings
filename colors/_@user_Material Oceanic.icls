@@ -4,7 +4,7 @@
     <property name="created">2019-12-30T11:01:19</property>
     <property name="ide">WebStorm</property>
     <property name="ideVersion">2019.3.1.0.0</property>
-    <property name="modified">2020-09-02T14:55:55</property>
+    <property name="modified">2020-09-05T14:18:06</property>
     <property name="originalScheme">Material Oceanic</property>
   </metaInfo>
   <option name="LINE_SPACING" value="1.4" />
@@ -29,7 +29,7 @@
     <option name="ANNOTATIONS_COLOR" value="fffbf7" />
     <option name="CARET_COLOR" value="ffcc00" />
     <option name="CARET_ROW_COLOR" value="1b2529" />
-    <option name="CONSOLE_BACKGROUND_KEY" value="263238" />
+    <option name="CONSOLE_BACKGROUND_KEY" value="" />
     <option name="DELETED_LINES_COLOR" value="f07178" />
     <option name="DIFF_SEPARATORS_BACKGROUND" value="1e2a30" />
     <option name="DIFF_SEPARATORS_TOP_BORDER" value="1b262b" />
@@ -294,7 +294,10 @@
     </option>
     <option name="CONSOLE_NORMAL_OUTPUT">
       <value>
-        <option name="EFFECT_TYPE" value="2" />
+        <option name="FOREGROUND" value="eaebe8" />
+        <option name="BACKGROUND" value="4a090a" />
+        <option name="EFFECT_COLOR" value="48184a" />
+        <option name="ERROR_STRIPE_COLOR" value="357d23" />
       </value>
     </option>
     <option name="CONSOLE_OUTPUT">
@@ -311,7 +314,9 @@
       </value>
     </option>
     <option name="CONSOLE_SYSTEM_OUTPUT">
-      <value />
+      <value>
+        <option name="FOREGROUND" value="32424a" />
+      </value>
     </option>
     <option name="CONSOLE_USER_INPUT">
       <value>
@@ -320,7 +325,7 @@
     </option>
     <option name="CONSOLE_WHITE_OUTPUT">
       <value>
-        <option name="FOREGROUND" value="f4f1f1" />
+        <option name="FOREGROUND" value="f8f8f0" />
       </value>
     </option>
     <option name="CONSOLE_YELLOW_OUTPUT">
@@ -1332,7 +1337,7 @@
     </option>
     <option name="LOG_INFO_OUTPUT">
       <value>
-        <option name="FOREGROUND" value="32424a" />
+        <option name="FOREGROUND" value="82aaff" />
       </value>
     </option>
     <option name="LOG_VERBOSE_OUTPUT">
