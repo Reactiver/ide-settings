@@ -1,8 +1,0 @@
-<application>
-  <component name="ActionMacroManager">
-    <macro name="formatOnSave">
-      <action id="OptimizeImports" />
-      <action id="SaveAll" />
-    </macro>
-  </component>
-</application>
