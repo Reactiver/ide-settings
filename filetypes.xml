@@ -6,6 +6,7 @@
       <mapping ext="main.kts" type="Kotlin" />
       <mapping pattern=".sentryclirc" type="PLAIN_TEXT" />
       <mapping ext="plist" type="PLAIN_TEXT" />
+      <mapping pattern="localization" type="TypeScript" />
     </extensionMap>
   </component>
 </application>
